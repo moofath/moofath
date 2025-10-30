@@ -48,10 +48,10 @@ I focus on crafting web solutions that are not only functional but visually enga
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moofath&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moofath&layout=compact&theme=radical&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
